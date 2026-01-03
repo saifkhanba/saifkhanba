@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋, I'm Mohammed Saif Khan</h1>
 <h3 align="center">Love to solve the best problems using technology and applying design thinking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifkhannyc" alt="saifkhannyc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifkhanba" alt="saifkhanba" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saifkhannyc" target="blank"><img src="https://img.shields.io/twitter/follow/saifkhannyc?logo=twitter&style=for-the-badge" alt="saifkhannyc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saifkhanba" target="blank"><img src="https://img.shields.io/twitter/follow/saifkhannyc?logo=twitter&style=for-the-badge" alt="saifkhanba" /></a> </p>
 
 - 🔭 I’m currently working on [NBCS's Website](https://nbcsny.org/)
 
