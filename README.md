@@ -105,9 +105,6 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://codepen.io/saifkhanba" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40">
-</a>
 <a href="https://twitter.com/saifkhanba" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40">
 </a>
