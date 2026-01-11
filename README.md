@@ -17,7 +17,7 @@ Deeply invested in solving meaningful business problems using data, systems, and
 
 ## 👤 About Me
 
-I’m a **Business Systems Analyst and Business Analytics practitioner** with deep experience translating complex business needs into **clear system requirements, decision-ready insights, and scalable technology solutions**.
+I’m a **Business Systems Analyst** and **Analytics practitioner** with deep experience translating complex business needs into **clear system requirements, decision-ready insights, and scalable technology solutions**.
 
 My work sits at the intersection of:
 - **Business analysis**
@@ -55,7 +55,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 - Excel (advanced analysis, Pivot Table, PowerQuery, Goalseek, Solver, Data tables, VBA)
 - SQL (data validation, analysis, Query Optimization)
 - Google Looker Studio (storytelling & insights)
-- Business Problem Framing, Requirement Elicitation, BRD, FRS, User Stories, Backlog Management, Process Optimization
+- Requirement Elicitation, BRD, FRS, User Stories, Backlog Management, Process Optimization/ BPMN
 
 ### Web & Systems
 - HTML, CSS, JavaScript
@@ -74,13 +74,13 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 ## 🔭 Current Focus
 
 - Building **projects** that combine systems analysis and analytics  
-- Deepening expertise in **HR/ People and Marketing Analytics**
+- Deepening expertise in **HR/People and Marketing Analytics**
 - Learning and strengthening **Statistics** and **Mathematics** needed for deep analysis
-- Practicing **Critical Thinking, Communication and Desicion-Making**
+- Practicing **Critical Thinking, Storytelling, and Decision-Making**
 
 ---
 
-## 📌 Featured Work
+## 📌 Portfolio Project Work
 
 - 🌐 **NBCS Website**  
   Supporting and enhancing a real-world nonprofit platform through systems analysis and web development  
@@ -98,8 +98,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 - Business systems analysis
 - Analytics for decision support
-- HR & workforce analytics
-- Public-sector technology
+- HR, payroll & workforce analytics
 - Product thinking & governance
 - Building things that actually work
 
