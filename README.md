@@ -52,21 +52,20 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 ## 🧰 Skills & Tools Expertise
 
 ### Business & Data
-- Microsoft Excel (advanced analysis, Pivot Table, PowerQuery, Goalseek, Solver, Data tables, VBA)
+- Microsoft Excel (advanced analysis, Pivot Table, PowerQuery, Goalseek, Solver, Scenario Manager, Data tables)
 - Microsoft Access VBA
 - SQL
 - Google Looker Studio/ PowerBI (storytelling & insights)
 - Requirement Elicitation, BRD, FRS, User Stories, Backlog Management, Process Optimization/ BPMN
 
 ### Web & Systems
-- HTML, CSS, JavaScript
-- PHP, Laravel
-- MySQL
-- Bootstrap
+- HTML, CSS, JavaScript, Bootstrap
+- PHP, MySQL
+- Balsamiq, Figma
 
 ### Ways of Working
 - Agile / Scrum
-- Waterfall / SDLC
+- Waterfall
 - Intake & prioritization
 - Stakeholder workshops & UAT
 
@@ -76,7 +75,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 - Building **projects** that combine systems analysis and analytics  
 - Deepening expertise in **HR/People and Marketing Analytics**
-- Learning and strengthening **Statistics** and **Mathematics** needed for deep analysis
+- Learning and strengthening **Statistics** and **Gen AI/ LLM** for deep research and analysis
 - Practicing **Critical Thinking, Storytelling, and Decision-Making**
 
 ---
