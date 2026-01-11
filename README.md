@@ -1,26 +1,127 @@
-<h1 align="center">Hi! 👋, I'm Mohammed Saif Khan</h1>
-<h3 align="center">Love to solve the best problems using technology and applying design thinking</h3>
+<h1 align="center">Hi, I’m Mohammed Saif Khan 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/saifkhanba" target="blank"><img src="https://img.shields.io/twitter/follow/saifkhanba?logo=twitter&style=for-the-badge" alt="saifkhanba" /></a> </p>
+<h3 align="center">
+Deeply invested in solving meaningful business problems using data, systems, and sound judgment
+</h3>
 
-- 🔭 I’m currently working on [NBCS's Website](https://nbcsny.org/)
-
-- 🌱 I’m currently learning **Vue.js, Laravel Framework**
-
-- 💬 Talk to me about **New project ideas, opportunities, web development, startup**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/saifkhanba/](https://www.linkedin.com/in/saifkhanba/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/saifkhanba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saifkhanba" height="30" width="40" /></a>
-<a href="https://twitter.com/saifkhanba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifkhanba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saifkhanba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifkhanba" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/saifkhanba" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://twitter.com/saifkhanba" target="_blank">
+<img src="https://img.shields.io/twitter/follow/saifkhanba?logo=twitter&style=for-the-badge">
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifkhanba&show_icons=true&locale=en&layout=compact" alt="saifkhanba" /></p>
+## 👤 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifkhanba&show_icons=true&locale=en" alt="saifkhanba" /></p>
+I’m a **Business Systems Analyst and Business Analytics practitioner** with deep experience translating complex business needs into **clear system requirements, decision-ready insights, and scalable technology solutions**.
+
+My work sits at the intersection of:
+- **Business analysis**
+- **Data-informed decision making**
+- **Systems thinking**
+- **Public-sector and enterprise environments**
+
+I care less about flashy tools and more about **clarity, impact, and outcomes**.  
+If a solution can’t be explained, governed, or sustained, it’s not done.
+
+---
+
+## 🧠 What I’m Best At
+
+- **Business Problem Framing**  
+  Turning vague challenges into structured, solvable problems
+
+- **Requirements & Systems Analysis**  
+  Translating business, policy, and user needs into buildable deliverables
+
+- **Business & HR Analytics**  
+  Using data responsibly to inform decisions, not automate judgment
+
+- **Cross-Functional Collaboration**  
+  Working with stakeholders, architects, designers, and engineers to reduce risk
+
+- **Governance & Quality**  
+  Ensuring solutions are compliant, auditable, and scalable
+
+---
+
+## 🧰 Tools & Technologies
+
+### Business & Data
+- Excel (advanced analysis, modeling, decision support)
+- SQL (data validation, analysis)
+- Power BI / Tableau (storytelling & insights)
+- Requirements documentation & process modeling
+
+### Web & Systems
+- HTML, CSS, JavaScript
+- PHP, Laravel
+- MySQL
+- Bootstrap
+
+### Ways of Working
+- Agile / Scrum
+- Waterfall / SDLC
+- Intake & prioritization frameworks
+- Stakeholder workshops & UAT
+
+---
+
+## 🔭 Current Focus
+
+- Building **portfolio projects** that combine systems analysis and analytics  
+- Deepening expertise in **HR Analytics and Marketing Analytics**
+- Learning **Vue.js** and strengthening **Laravel-based applications**
+- Practicing **director-level communication, governance, and decision framing**
+
+---
+
+## 📌 Featured Work
+
+- 🌐 **NBCS Website**  
+  Supporting and enhancing a real-world nonprofit platform  
+  👉 https://nbcsny.org/
+
+*(More analytics-focused portfolio projects coming soon)*
+
+---
+
+## 💬 Let’s Talk About
+
+- Business systems analysis
+- Analytics for decision support
+- HR & workforce analytics
+- Public-sector technology
+- Product thinking & governance
+- Building things that actually work
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://codepen.io/saifkhanba" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40">
+</a>
+<a href="https://twitter.com/saifkhanba" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40">
+</a>
+<a href="https://linkedin.com/in/saifkhanba" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saifkhanba&show_icons=true&locale=en" alt="GitHub stats">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifkhanba&show_icons=true&locale=en&layout=compact" alt="Top languages">
+</p>
+
