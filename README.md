@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifkhanba" alt="saifkhanba" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saifkhanba" target="blank"><img src="https://img.shields.io/twitter/follow/saifkhannyc?logo=twitter&style=for-the-badge" alt="saifkhanba" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saifkhanba" target="blank"><img src="https://img.shields.io/twitter/follow/saifkhanba?logo=twitter&style=for-the-badge" alt="saifkhanba" /></a> </p>
 
 - 🔭 I’m currently working on [NBCS's Website](https://nbcsny.org/)
 
