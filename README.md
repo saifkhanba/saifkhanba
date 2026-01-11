@@ -53,9 +53,9 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 ### Business & Data
 - Excel (advanced analysis, Pivot Table, PowerQuery, Goalseek, Solver, Data tables, VBA)
-- SQL (data validation, analysis)
+- SQL (data validation, analysis, Query Optimization)
 - Google Looker Studio (storytelling & insights)
-- Requirements documentation & process modeling
+- Business Problem Framing, Requirement Elicitation, BRD, FRS, User Stories, Backlog Management, Process Optimization
 
 ### Web & Systems
 - HTML, CSS, JavaScript
@@ -66,7 +66,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 ### Ways of Working
 - Agile / Scrum
 - Waterfall / SDLC
-- Intake & prioritization frameworks
+- Intake & prioritization
 - Stakeholder workshops & UAT
 
 ---
