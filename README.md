@@ -49,7 +49,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Skills & Tools Expertise
 
 ### Business & Data
 - Microsoft Excel (advanced analysis, Pivot Table, PowerQuery, Goalseek, Solver, Data tables, VBA)
