@@ -52,9 +52,9 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 ## 🧰 Tools & Technologies
 
 ### Business & Data
-- Excel (advanced analysis, modeling, decision support)
+- Excel (advanced analysis, Pivot Table, PowerQuery, Goalseek, Solver, Data tables, VBA)
 - SQL (data validation, analysis)
-- Power BI / Tableau (storytelling & insights)
+- Google Looker Studio (storytelling & insights)
 - Requirements documentation & process modeling
 
 ### Web & Systems
@@ -73,20 +73,24 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 ## 🔭 Current Focus
 
-- Building **portfolio projects** that combine systems analysis and analytics  
-- Deepening expertise in **HR Analytics and Marketing Analytics**
-- Learning **Vue.js** and strengthening **Laravel-based applications**
-- Practicing **director-level communication, governance, and decision framing**
+- Building **projects** that combine systems analysis and analytics  
+- Deepening expertise in **HR/ People and Marketing Analytics**
+- Learning and strengthening **Statistics** and **Mathematics** needed for deep analysis
+- Practicing **Critical Thinking, Communication and Desicion-Making**
 
 ---
 
 ## 📌 Featured Work
 
 - 🌐 **NBCS Website**  
-  Supporting and enhancing a real-world nonprofit platform  
+  Supporting and enhancing a real-world nonprofit platform through systems analysis and web development  
   👉 https://nbcsny.org/
 
-*(More analytics-focused portfolio projects coming soon)*
+- 📊 **Business Analytics & Dashboarding (Looker Studio)**  
+  Designed interactive dashboards to translate data into clear, decision-ready insights for stakeholders  
+  👉 https://lookerstudio.google.com/u/3/reporting/a1023f59-d338-428a-abc4-c5aa91e66b23/page/HNaPF
+
+*(More analytics-focused portfolio projects coming soon)*  
 
 ---
 
