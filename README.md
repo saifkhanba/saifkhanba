@@ -17,7 +17,7 @@ Deeply invested in solving meaningful business problems using data, systems, and
 
 ## 👤 About Me
 
-I’m a **Business Systems Analyst** and **Analytics practitioner** with deep experience translating complex business needs into **clear system requirements, decision-ready insights, and scalable technology solutions**.
+I’m a **Business Systems Analyst** and **Data Storyteller** with deep experience translating complex business needs into **clear system requirements, decision-ready insights, and scalable technology solutions**.
 
 My work sits at the intersection of:
 - **Business analysis**
