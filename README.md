@@ -35,8 +35,8 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 | Capability | What This Means in Practice |
 |-----------|-----------------------------|
 | **Business Problem Framing** | Turning vague challenges into structured, solvable problems |
-| **Requirements & Systems Analysis** | Translating business, policy, and user needs into buildable deliverables |
-| **Business & HR Analytics** | Using data responsibly to inform decisions, not automate judgment |
+| **Requirements & Systems Analysis** | Translating business, policy, and user needs into buildable and testable requirements |
+| **Business Data Analytics** | Using data responsibly to inform decisions, not automate judgment |
 | **Cross-Functional Collaboration** | Aligning stakeholders, architects, designers, and engineers |
 | **Governance & Quality** | Ensuring solutions are compliant, auditable, and scalable |
 
