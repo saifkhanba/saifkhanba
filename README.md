@@ -34,11 +34,11 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 | Capability | What This Means in Practice |
 |-----------|-----------------------------|
-| **Business Problem Framing** | Turning vague challenges into structured, solvable problems |
-| **Requirements & Systems Analysis** | Translating business, policy, and user needs into buildable and testable requirements |
-| **Business Data Analytics** | Using data responsibly to inform decisions, not automate judgment |
-| **Cross-Functional Collaboration** | Aligning stakeholders, architects, designers, and engineers |
-| **Web Application Development** | Design and develop mobile-first responsive web based solutions using bootstrap, Php, MySQL, Laravel |
+| **Business Problem Framing** | I help stakeholders clearly define the real problem before solutions are proposed, so teams don’t build the wrong thing |
+| **Requirements & Systems Analysis** | I translate business rules, policies, and user needs into clear, testable functional requirements that technology teams can build and QA can validate |
+| **Business Data Analytics** | I analyze data to support decisions, identify trends, and explain what is happening and why, without over-automating human judgment |
+| **Cross-Functional Collaboration** | I work as a bridge between business users, product owners, designers, engineers, and leadership to keep everyone aligned |
+| **Web Application Development** | I can design and develop mobile responsive web based solutions using HTML, CSS, Javascript, Bootstrap, Php, MySQL|
 
 ---
 
