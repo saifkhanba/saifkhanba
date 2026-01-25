@@ -89,8 +89,8 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 - Business systems analysis
 - Analytics for decision support
 - HR, payroll & workforce analytics
-- Product thinking & governance
-- Building things that actually work
+- New Product Development
+- Building Startups
 
 ---
 
