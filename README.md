@@ -80,7 +80,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 | **NBCS Website** | Wordpress, Responsive Design | Supporting and enhancing a real-world nonprofit website | [Visit Website](https://nbcsny.org/) |
 | **Business Analytics & Dashboarding** | Google Looker Studio, Data connectors | Designed interactive Looker Studio dashboards to translate data into clear, decision-ready insights for stakeholders | [View Dashboard](https://lookerstudio.google.com/u/3/reporting/a1023f59-d338-428a-abc4-c5aa91e66b23/page/HNaPF) |
 
-*More analytics-focused portfolio projects coming soon*
+*More projects coming soon*
 
 ---
 
