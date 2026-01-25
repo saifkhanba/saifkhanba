@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Mohammed Saif Khan 👋</h1>
 
 <h3 align="center">
-Deeply invested in solving meaningful business problems using data, systems, and sound judgment
+Focused on solving real business problems through clear analysis, data, and well-designed systems
 </h3>
 
 <p align="center">
