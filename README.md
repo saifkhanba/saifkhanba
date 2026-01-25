@@ -75,10 +75,10 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 
 ## 📌 Portfolio Project Work
 
-| Project | Focus Area | Description | Link |
+| Project | Tools Used | Description | Link |
 |--------|-----------|-------------|------|
-| **NBCS Website** | Business Systems Analysis, Web Development | Supporting and enhancing a real-world nonprofit platform through systems analysis, requirements translation, and application development | [Visit Website](https://nbcsny.org/) |
-| **Business Analytics & Dashboarding** | Business Analytics, Data Visualization | Designed interactive Looker Studio dashboards to translate data into clear, decision-ready insights for stakeholders | [View Dashboard](https://lookerstudio.google.com/u/3/reporting/a1023f59-d338-428a-abc4-c5aa91e66b23/page/HNaPF) |
+| **NBCS Website** | Wordpress, Responsive Design | Supporting and enhancing a real-world nonprofit website | [Visit Website](https://nbcsny.org/) |
+| **Business Analytics & Dashboarding** | Google Looker Studio, Data connectors | Designed interactive Looker Studio dashboards to translate data into clear, decision-ready insights for stakeholders | [View Dashboard](https://lookerstudio.google.com/u/3/reporting/a1023f59-d338-428a-abc4-c5aa91e66b23/page/HNaPF) |
 
 *More analytics-focused portfolio projects coming soon*
 
