@@ -17,16 +17,9 @@ Focused on solving real business problems through clear analysis, data, and well
 
 ## 👤 About Me
 
-I’m a **Business Systems Analyst** and **Data Storyteller** with deep experience translating complex business needs into **clear system requirements, decision-ready insights, and scalable technology solutions**.
+I’m a **Business Systems Analyst** who helps organizations turn complex **business needs** into clear system requirements, useful data insights, and scalable technology solutions.
 
-My work sits at the intersection of:
-- **Business analysis**
-- **Data-informed decision making**
-- **Systems thinking**
-- **Public-sector and enterprise environments**
-
-I care less about flashy tools and more about **clarity, impact, and outcomes**.  
-If a solution can’t be explained, governed, or sustained, it’s not done.
+I work across **business analysis**, **data-driven decision making**, and **systems thinking**, primarily in **public-sector** and **large enterprise** environments.
 
 ---
 
