@@ -38,7 +38,7 @@ If a solution can’t be explained, governed, or sustained, it’s not done.
 | **Requirements & Systems Analysis** | Translating business, policy, and user needs into buildable and testable requirements |
 | **Business Data Analytics** | Using data responsibly to inform decisions, not automate judgment |
 | **Cross-Functional Collaboration** | Aligning stakeholders, architects, designers, and engineers |
-| **Governance & Quality** | Ensuring solutions are compliant, auditable, and scalable |
+| **Web Application Development** | Design and develop mobile-first responsive web based solutions using bootstrap, Php, MySQL, Laravel |
 
 ---
 
